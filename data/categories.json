@@ -3,5 +3,10 @@
         "id": 1,
         "name": "هوش مصنوعی",
         "slug": "Artificial-Intelligence"
+    },
+    {
+        "id": 2,
+        "name": "ورزش دیجیتال",
+        "slug": "eFootball-2025"
     }
 ]
